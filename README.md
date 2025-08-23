@@ -302,3 +302,29 @@ public class ApplicationParrainage extends JFrame {
 3. Remplacez `username` et `password` dans le code par vos identifi
 ants MySQL.
 4. Compilez et exécutez le programme Java.
+
+# Explication du code
+1. Initialisation de la base de données:
+* Connexion à la base MySQL
+
+Création des tables si elles n'existent pas
+
+Chargement des données:
+
+Récupération des parrains et filleuls depuis la base
+
+Affichage dans des JTable
+
+Attribution aléatoire:
+
+Récupération de tous les IDs de parrains et filleuls
+
+Mélange aléatoire de la liste des parrains
+
+Attribution via des requêtes UPDATE batch
+
+Affichage des assignations:
+
+Jointure SQL entre les tables Parrain et Filleul
+
+Affichage des noms grâce aux IDs
