@@ -310,8 +310,7 @@ ants MySQL.
 2. Chargement des données:
 * Récupération des parrains et filleuls depuis la base
 *  Affichage dans des JTable
-
-Attribution aléatoire:
+3. Attribution aléatoire:
 
 Récupération de tous les IDs de parrains et filleuls
 
