@@ -313,8 +313,7 @@ ants MySQL.
 3. Attribution aléatoire:
 * Récupération de tous les IDs de parrains et filleuls
 * Mélange aléatoire de la liste des parrains
-
-Attribution via des requêtes UPDATE batch
+* Attribution via des requêtes UPDATE batch
 
 Affichage des assignations:
 
