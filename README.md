@@ -294,5 +294,11 @@ public class ApplicationParrainage extends JFrame {
             }
         });
     }
-} 
+}  
 ```
+## Instructions pour l'exécution
+1. Assurez-vous d'avoir une base de données MySQL en cours d'exécution.
+2. Créez une base de données nommée `parrainage`.
+3. Remplacez `username` et `password` dans le code par vos identifi
+ants MySQL.
+4. Compilez et exécutez le programme Java.
