@@ -309,8 +309,7 @@ ants MySQL.
 * Création des tables si elles n'existent pas
 2. Chargement des données:
 * Récupération des parrains et filleuls depuis la base
-
-Affichage dans des JTable
+*  Affichage dans des JTable
 
 Attribution aléatoire:
 
