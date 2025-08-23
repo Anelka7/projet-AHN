@@ -311,10 +311,8 @@ ants MySQL.
 * Récupération des parrains et filleuls depuis la base
 *  Affichage dans des JTable
 3. Attribution aléatoire:
-
-Récupération de tous les IDs de parrains et filleuls
-
-Mélange aléatoire de la liste des parrains
+* Récupération de tous les IDs de parrains et filleuls
+* Mélange aléatoire de la liste des parrains
 
 Attribution via des requêtes UPDATE batch
 
