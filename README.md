@@ -314,8 +314,7 @@ ants MySQL.
 * Récupération de tous les IDs de parrains et filleuls
 * Mélange aléatoire de la liste des parrains
 * Attribution via des requêtes UPDATE batch
-
-Affichage des assignations:
+4. Affichage des assignations:
 
 Jointure SQL entre les tables Parrain et Filleul
 
