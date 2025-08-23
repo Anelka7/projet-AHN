@@ -315,7 +315,5 @@ ants MySQL.
 * Mélange aléatoire de la liste des parrains
 * Attribution via des requêtes UPDATE batch
 4. Affichage des assignations:
-
-Jointure SQL entre les tables Parrain et Filleul
-
-Affichage des noms grâce aux IDs
+* Jointure SQL entre les tables Parrain et Filleul
+* Affichage des noms grâce aux IDs
