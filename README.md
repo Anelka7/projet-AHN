@@ -306,8 +306,7 @@ ants MySQL.
 # Explication du code
 1. Initialisation de la base de données:
 * Connexion à la base MySQL
-
-Création des tables si elles n'existent pas
+* Création des tables si elles n'existent pas
 
 Chargement des données:
 
