@@ -307,10 +307,8 @@ ants MySQL.
 1. Initialisation de la base de données:
 * Connexion à la base MySQL
 * Création des tables si elles n'existent pas
-
-Chargement des données:
-
-Récupération des parrains et filleuls depuis la base
+2. Chargement des données:
+* Récupération des parrains et filleuls depuis la base
 
 Affichage dans des JTable
 
